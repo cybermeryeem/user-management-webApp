@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lucide-react": "^0.536.0",
+    "pdfkit": "^0.17.1"
+  }
+}
